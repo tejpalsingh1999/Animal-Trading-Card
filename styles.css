@@ -1,0 +1,37 @@
+.sizeOfHeading{
+    font-size:150%;
+    margin: 0.5em; 
+}
+
+.imageSize{
+    margin : 0.5em;
+    width :300px;
+}
+
+.box{
+    border : 1px solid black;
+    width: 300px;
+    margin : 0.5em;
+    text-align: left;
+    
+} 
+.outerBox{
+    border : 1px solid black;
+    padding : 0.5em;
+    margin : 0.5em;
+    width: 320px;
+    box-shadow : 10px 10px #d8d8d8
+}
+
+ul{
+    list-style-type: none;
+    padding: 10px;
+    margin: 0;
+    text-align: left;
+}
+p{
+    padding: 10px;
+    margin: 0;
+    text-align: left;
+}
+
